@@ -30,7 +30,7 @@ Sistema web desenvolvido em PHP e MySQL com autenticação de usuários, control
 1. Instale o XAMPP
 2. Inicie o Apache e MySQL
 3. Coloque o projeto dentro da pasta `C:\xampp\htdocs`
-4. Importe o arquivo `uml.sql` no http://localhost/phpMyAdmin
+4. Importe o arquivo `uml.sql` no http://localhost/phpmyadmin/
 5. Acesse pelo navegador: http://localhost/Uml/
 
 ---
